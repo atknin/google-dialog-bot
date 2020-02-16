@@ -1,1 +1,2 @@
-pip install apiai
+pip3 install apiai
+install python-telegram-bot --upgrade
